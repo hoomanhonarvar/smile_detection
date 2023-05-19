@@ -1,0 +1,5 @@
+.idea
+datasets
+final_model.sav
+venv
+hooman.pickle
